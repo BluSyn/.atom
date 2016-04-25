@@ -1,0 +1,57 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "0ab4812d-e4d2-4533-b4df-f79435831833"
+    analytics: false
+    beautifyEntireFileOnSave: false
+    css_preserve_newlines: true
+    css_selector_separator_newline: true
+    html_indent_inner_html: true
+    js_end_with_newline: true
+    js_indent_with_tabs: true
+  "atom-bitcoin":
+    interval: 10
+  "autocomplete-plus": {}
+  core:
+    automaticallyUpdate: false
+    excludeVcsIgnoredPaths: false
+    themes: [
+      "neutron-ui"
+      "neutron-syntax"
+    ]
+  docblockr: {}
+  editor:
+    fontFamily: "Mensch"
+    fontSize: 11
+    invisibles: {}
+    preferredLineLength: 90
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    softWrap: true
+    tabLength: 4
+  emmet: {}
+  "exception-reporting":
+    userId: "dd266fa6-958f-7350-0b03-214a261c3de4"
+  "git-log": {}
+  linter:
+    ignoredLinterErrors: [
+      "jshint"
+    ]
+    showErrorInline: false
+    statusBar: "Show error of the selected line"
+  "linter-jshint": {}
+  "linter-less": {}
+  "merge-conflicts": {}
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  "project-palette-finder": {}
+  "symbols-tree-view": {}
+  welcome:
+    showOnStartup: false
